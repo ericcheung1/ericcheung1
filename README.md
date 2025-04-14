@@ -1,7 +1,5 @@
-- Hi, I’m @ericcheung1
-- I’m interested in Data Analysis/Science
-- I’m currently learning pandas in Python
-- I'm familiar with R
+- Hello, I’m Eric
+- Checkout my NBA Salary Prediction Pipeline!!
 
 <!---
 ericcheung1/ericcheung1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
