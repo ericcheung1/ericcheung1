@@ -6,7 +6,7 @@ I'm an economics undergraduate student passionate about data science. I enjoy bu
 
 ### 🌱 What I'm Currently Working On
 
-I'm currently working on the **Canucks Fan Sentiment Analysis** project, building a web application with **Flask** and **MongoEngine** to collect and display fan reactions from Reddit, with sentiment analysis (**NLTK's VADER**) coming soon!
+I'm currently working on the **Canucks Fan Sentiment Analysis** project, building a web application with **Flask** and **MongoEngine** to analyze and display fan reactions from Reddit, with sentiment analysis (**NLTK's VADER**)
 
 ---
 
