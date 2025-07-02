@@ -6,7 +6,7 @@ I'm an economics undergraduate student passionate for data science. I enjoy work
 
 ### 🌱 What I'm Currently Working On
 
-I'm currently working on the **Canucks Fan Sentiment Analysis** project, a **Flask** web app to display sentiment analysis of r/canucks post-game threads from the 2024–25 NHL season.
+I'm currently working on the **Canucks Fan Sentiment Analysis** project, which aims to analyze the sentiment of fans on the r/canucks post-game threads from the 2024–25 NHL season. The results are displayed and deployed in a **Flask** web application.
 
 ---
 
@@ -28,7 +28,7 @@ I'm currently working on the **Canucks Fan Sentiment Analysis** project, a **Fla
 
 ### 📚 Learning & Future Plans
 
-Always eager to learn new tools! Future plans include integrating **Streamlit** into my NBA project for interactive dashboards and delving deeper into advanced NLP techniques.
+Future plans include integrating **Streamlit** into my NBA project for interactive dashboards and delving deeper into advanced NLP techniques.
 
 ---
 
