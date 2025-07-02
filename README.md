@@ -1,12 +1,12 @@
 # Hi there! 👋 I'm Eric
 
-I'm an economics undergraduate student passionate about data science. I enjoy building projects that combine my analytical background with technical skills.
+I'm an economics undergraduate student passionate for data science. I enjoy working on projects that combine my interests in sports along with data.
 
 ---
 
 ### 🌱 What I'm Currently Working On
 
-I'm currently working on the **Canucks Fan Sentiment Analysis** project, building a web application with **Flask** and **MongoEngine** to analyze and display fan reactions from Reddit, with sentiment analysis (**NLTK's VADER**)
+I'm currently working on the **Canucks Fan Sentiment Analysis** project, a web application with **Flask** to display sentiment analysis from Reddit posts.
 
 ---
 
@@ -28,13 +28,13 @@ I'm currently working on the **Canucks Fan Sentiment Analysis** project, buildin
 
 ### 📚 Learning & Future Plans
 
-Always eager to learn new tools! My next steps include integrating **Streamlit** into my NBA project for interactive dashboards and delving deeper into advanced NLP techniques.
+Always eager to learn new tools! Future plans include integrating **Streamlit** into my NBA project for interactive dashboards and delving deeper into advanced NLP techniques.
 
 ---
 
 ### 📫 Connect With Me
 
-* [(https://www.linkedin.com/in/eric-cheung01/)]
+* https://www.linkedin.com/in/eric-cheung01/
 <!---
 ericcheung1/ericcheung1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
