@@ -4,7 +4,7 @@ I'm an undergraduate economics student passionate for data. I enjoy working on p
 
 ---
 
-### 🚀 Key Projects
+### Key Projects
 
 * **NBA Salary Prediction Pipeline:** An end-to-end machine learning project to predict NBA player salaries, featuring web scraping, data cleaning, SQLite database management, and **Machine Learning** modeling.
 * **Canucks Fan Sentiment Analysis:** which aims to analyze the sentiment of fans on r/canucks post-game threads from the 2024–25 NHL season. The results are displayed and deployed in a **Flask** web application.
