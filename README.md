@@ -1,13 +1,13 @@
 # Hi, I'm Eric
 
-I'm an undergraduate economics student passionate for data. I enjoy working on projects that involves sports.
+I'm an undergraduate economics student with a passion for data. I enjoy working on projects that combines sports and programming.
 
 ---
 
 ### Key Projects
 
 * **NBA Salary Prediction Pipeline:** An end-to-end machine learning project to predict NBA player salaries, featuring web scraping, data cleaning, SQLite database management, and **Machine Learning** modeling.
-* **Canucks Fan Sentiment Analysis:** Aims to analyze the sentiment of fans on r/canucks post-game threads from the 2024–25 NHL season. The results are displayed and deployed in a **Flask** web application.
+* **Canucks Fan Sentiment Analysis:** Aims to analyze the sentiment of fans on r/canucks post-game discussion threads from the 2024–25 NHL season. The results are displayed and deployed in a **Flask** web application.
 
 ---
 
