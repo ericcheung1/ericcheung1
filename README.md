@@ -1,6 +1,6 @@
-# Hi, I'm Eric
+### Hi, I'm Eric
 
-I'm an undergraduate economics student with a passion for data. I enjoy working on projects that combines sports and programming.
+I'm an undergraduate economics student. I enjoy working on projects that combines sports and programming.
 
 ---
 
