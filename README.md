@@ -17,11 +17,6 @@ I'm an undergraduate economics student. I enjoy working on projects that combine
 * **Languages:** Python, R, SQL
 * **Concepts:** Machine Learning, Web Scraping, Data Cleaning, Data Modeling, Sentiment Analysis, Databases, Econometrics
 
----
-
-### Connect With Me
-
-* https://www.linkedin.com/in/eric-cheung01/
 <!---
 ericcheung1/ericcheung1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
