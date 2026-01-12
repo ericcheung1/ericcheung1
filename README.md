@@ -1,19 +1,24 @@
-## Hi, I'm Eric
+```                                             
+ /%%   /%% /%% /%%       /%%%%%% /%%                   /%%%%%%%%           /%%              
+| %%  | %%|__/| %%      |_  %%_/| %/                  | %%_____/          |__/              
+| %%  | %% /%%| %%        | %%  |_//%%%%%%/%%%%       | %%        /%%%%%%  /%%  /%%%%%%% /%%
+| %%%%%%%%| %%| %%        | %%    | %%_  %%_  %%      | %%%%%    /%%__  %%| %% /%%_____/|__/
+| %%__  %%| %%|__/        | %%    | %% \ %% \ %%      | %%__/   | %%  \__/| %%| %%          
+| %%  | %%| %%            | %%    | %% | %% | %%      | %%      | %%      | %%| %%       /%%
+| %%  | %%| %% /%%       /%%%%%%  | %% | %% | %%      | %%%%%%%%| %%      | %%|  %%%%%%%| %/
+|__/  |__/|__/|__/      |______/  |__/ |__/ |__/      |________/|__/      |__/ \_______/|_/
+```
 
-I'm an undergraduate economics student. I enjoy working on projects that combines sports and programming.
+Economics student at Simon Fraser University. I enjoy working on projects that combines machine learning with my interest in sports. I also like building small projects that help me learn more about computer science concepts and fundamentals.
 
-## Overview
-
-* ESH: Unix Shell: Basic implementation of a Unix/Unix-like shell.
-* Econometrics Term Paper: Econometrics analysis to explore the effects of transit spending on unemployment, utilizing R, static time series regression, and various statistical tests.
-* Canucks Fan Sentiment Analysis: Flask web application to analyze the sentiment of fans on r/canucks post-game discussion threads from the 2024–25 NHL season.
-* NBA Salary Prediction Pipeline: End-to-end machine learning project to predict NBA player salaries, featuring web scraping, data cleaning, SQLite database management.
-
-## Interests
-
+### Interests & Tools
+---
 * Languages: Python, R, C, SQL
-* Concepts: Machine Learning, Web Scraping, Data Modeling, Sentiment Analysis, Databases, Econometrics, Shell Programming
+* Concepts: Machine Learning, Web Scraping, Econometrics, Terminal/Command Line
 
+### Currently Working On
+---
+* ESH: Unix Shell: A Basic Implementation of a Unix/Unix-like Shell in C, adding small features along the way
 <!---
 ericcheung1/ericcheung1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
