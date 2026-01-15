@@ -16,9 +16,6 @@ Economics student at Simon Fraser University. I enjoy working on projects that c
 * Languages: Python, R, C, SQL
 * Concepts: Machine Learning, Web Scraping, Econometrics, Terminal/Command Line
 
-### Currently Working On
----
-* ESH: Unix Shell: A Basic Implementation of a Unix/Unix-like Shell in C, adding small features along the way
 <!---
 ericcheung1/ericcheung1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
