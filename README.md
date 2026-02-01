@@ -14,7 +14,6 @@ Economics student at Simon Fraser University. I enjoy working on projects that c
 ### Interests & Tools
 ---
 * Languages: Python, R, C, SQL
-* Concepts: Machine Learning, Web Scraping, Econometrics, Command Line
 
 <!---
 ericcheung1/ericcheung1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
