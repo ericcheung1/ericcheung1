@@ -1,3 +1,5 @@
+![Alt text](splash.png)
+
 Hello! I'm Eric, an economics student at Simon Fraser University. I enjoy working on projects that involve machine learning or projects that help me learn more about computer science topics. 
 
 
